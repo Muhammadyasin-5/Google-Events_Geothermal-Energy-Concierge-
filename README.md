@@ -1,6 +1,6 @@
 Geothermal Energy Concierge: Earth's Thermal Intelligence Platform
 Harnessing Subsurface Heat through Data-Driven Analysis and Geological Insights
-https://www.kaggle.com/code/mrmuhammadyasinkhan/google-events-geothermal-energy-conceirge
+[https://www.kaggle.com/code/mrmuhammadyasinkhan/google-capstone-project]
 GeoThermal AI Concierge can here also be described as Multi-Agent System for Sustainable Energy Assessment
 
 Project Overview
