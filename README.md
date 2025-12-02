@@ -139,4 +139,5 @@ This project demonstrates sophisticated integration of:
 
 The GeoThermal AI Concierge represents a significant advancement in applying multi-agent AI systems to complex environmental and energy challenges, providing a scalable, efficient, and intelligent solution for accelerating our transition to sustainable energy sources.
 
-Note: Images and tables are generated from a scientific data acquired by different researchers during their work and used here for practice only- not my property. All rights belong to original owners.
+Data Attribution:
+This analysis employs scientific data acquired by external researchers. The derivative images and tables are my own visual interpretations, created for illustrative and practice purposes. The intellectual property of the source data is acknowledged to belong to the original collectors.
